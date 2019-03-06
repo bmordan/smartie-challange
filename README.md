@@ -30,7 +30,7 @@ You will have at least 4 hours to work on your solutions. During that time our S
 
 The day will conclude with each of you presenting your solution to the rest of the group. It does not matter if you do not finish the task. We are just trying to get a sense of your current level of expertise so we can tweak our programme to make it work for you! 
 
-[![screen shot of my attempt at this](https://user-images.githubusercontent.com/4499581/53914952-b932f380-4056-11e9-88cc-df5c001501c4.jpg)](spiky-drop.surge.sh)
+[![screen shot of my attempt at this](https://user-images.githubusercontent.com/4499581/53914952-b932f380-4056-11e9-88cc-df5c001501c4.jpg)](http://spiky-drop.surge.sh)
 
 ## Reflections
 
@@ -38,4 +38,4 @@ So I tacked this using Elm. The hardest thing to get right was the data model. I
 
 Thats quite hard. Think about it. I wanted to avoid clicking on a smartie, but then the one on the very end disappears. Elm is actaully fun. The feeling when your code compiles and runs is very satisfying. I find the restrictive Debug logging, compaired to javascript hard. I find I want to see everything, but you cant just console.log anything out.
 
-[spiky-drop.surge.sh](spiky-drop.surge.sh)
+[spiky-drop.surge.sh](http://spiky-drop.surge.sh)
