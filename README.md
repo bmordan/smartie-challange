@@ -30,7 +30,7 @@ You will have at least 4 hours to work on your solutions. During that time our S
 
 The day will conclude with each of you presenting your solution to the rest of the group. It does not matter if you do not finish the task. We are just trying to get a sense of your current level of expertise so we can tweak our programme to make it work for you! 
 
-[spiky-drop.surge.sh](![screen shot of my attempt at this](https://user-images.githubusercontent.com/4499581/53914952-b932f380-4056-11e9-88cc-df5c001501c4.jpg))
+[![screen shot of my attempt at this](https://user-images.githubusercontent.com/4499581/53914952-b932f380-4056-11e9-88cc-df5c001501c4.jpg)](spiky-drop.surge.sh)
 
 ## Reflections
 
