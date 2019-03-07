@@ -17,11 +17,14 @@ type alias Model =
 
 tubeContent : Dict String Int
 tubeContent = Dict.fromList [ 
-      ("red", 3)
-    , ("blue", 5)
-    , ("yellow", 6)
-    , ("orange", 4)
-    , ("light-purple", 2)
+      ("orange", 2)
+    , ("yellow", 9)
+    , ("light-purple", 5)
+    , ("light-blue", 2)
+    , ("red", 3)
+    , ("dark-pink", 2)
+    , ("green", 4)
+    , ("blue", 4)
     ]
 
 makeStacks : String -> (String, Array Bool)
