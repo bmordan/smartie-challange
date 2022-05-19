@@ -7,7 +7,7 @@ The aim of this software challange is to understand your current level of expert
 We are going to do this in three ways. 
 
 * You’ll be invited to show us what you can do by taking on our technical challenge
-* A WhiteHat Coach will have a short conversation with you about your experience
+* A Multiverse Coach will have a short conversation with you about your experience
 * You’ll have the opportunity to present your work at the end of the main session to the rest of the group 
 
 The day is not a test so please relax and enjoy yourself, we are really excited about spending the day with you and getting to know you.
